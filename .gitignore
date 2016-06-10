@@ -1,0 +1,10 @@
+Library/
+*.csproj
+*.sln
+*.DotSettings
+obj/
+Temp/
+*.suo
+Thumbs.db.meta
+*.blend1
+*.blend1.meta
